@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	 
+	 margin-top: n:100px;
+	 padding:20px;
+	 width :50%;
+	
+}
+#mylist{
+	width:50%;
+	float: right;
+}
